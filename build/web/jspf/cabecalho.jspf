@@ -1,0 +1,26 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
+<link rel="stylesheet" href="css/style.css">
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Buddy</title>
+        
+    </head>
+    <body>
+        <header>
+        <h1 class = "index">Buddy</h1>
+        </header>
+        <aside>
+        <menu>
+            <ul>
+                <li><a href="index.html" class="utils">Home</a></li>
+                <li><a href="anfitriao.html" class="utils">Anfitrião</a></li>
+                <li><a href="estrangeiro.html" class="utils">Estrangeiro</a></li>
+                <li><a href="pedirEstrangeiro.html" class="utils">Cadastrar intercambio</a></li>
+            </ul>
+        </menu>
+        </aside>
